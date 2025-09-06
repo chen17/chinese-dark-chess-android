@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/drawable_chess_black_general.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/drawable/chess_black_general.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/drawable_img_win.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/drawable/img_win.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/layout_activity_main.xml.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/drawable_btn_1vsai.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/drawable/btn_1vsai.png"
+    },
+    {
+        "merged": "com.example.chinesedarkchess.app-merged_res-24:/layout_activity_menu.xml.flat",
+        "source": "com.example.chinesedarkchess.app-main-26:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/drawable_img_red_win.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/drawable/img_red_win.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/drawable_gchess_black_general.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/drawable/gchess_black_general.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/drawable_btn_endgame.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/drawable/btn_endgame.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/layout_activity_menu.xml.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/drawable_img_black_win.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/drawable/img_black_win.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/drawable_btn_1vs1.png.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/drawable/btn_1vs1.png"
+    },
+    {
+        "merged": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-merged_res-24:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/seventeen/.gradle/daemon/8.0/com.example.chinesedarkchess.app-main-26:/drawable/ic_launcher_foreground.xml"
+    }
+]

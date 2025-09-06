@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable btn_1vs1
+drawable btn_1vsai
+drawable btn_endgame
+drawable chess_black_general
+drawable gchess_black_general
+drawable ic_launcher_foreground
+drawable img_black_win
+drawable img_red_win
+drawable img_win
+id black_win_image
+id boardView
+id btn_exit
+id btn_player_vs_ai
+id btn_player_vs_player
+id red_win_image
+id select_chess_pieces
+id select_gchess_pieces
+layout activity_main
+layout activity_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style DarkDialog
+style Theme.ChineseDarkChess

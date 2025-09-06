@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/seventeen/.gradle/caches/transforms-3/f7440518479fb8c5dacdfbe7f994f201/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/seventeen/.gradle/caches/transforms-3/8f9fb9e39185f1a6956971b1f70e54e8/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/seventeen/.gradle/caches/transforms-3/23ab65f79b9b3c8f428135d9710c843d/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/ec7e1e7832e844b576223f5c2e1e6996/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/seventeen/.gradle/caches/transforms-3/b7067ac5074db9b973510d1799430040/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/seventeen/.gradle/caches/transforms-3/64e620a699e5d6bfdd6b347ac736c5ef/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/seventeen/.gradle/caches/transforms-3/93753c90c26d82cb7483fe6112d42340/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/9f632936c607390c239f3c8c1b4444d9/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/seventeen/.gradle/caches/transforms-3/10bef1bdbee7f9ede9b2cf8029f1b3e9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/a81ab9759ca9e62ef6dcb3bfbb1ea356/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/280c17331b57dcb0e75500cb76b2414e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/seventeen/.gradle/caches/transforms-3/3b915b2cc696832ba2a8600b7d46214e/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/50cf1aed4fc6d5299ff588e1f38e092d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/3ed3ee9b4abcd491d7f8e651cbc2518c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/4a8a4d1fb0523992e643d70634e93ef5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/a8ee09f72ca03881576d7ab8bf21a944/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/3cb825ae470230c85107c6e83ad77f1d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/a2d947bcadbd868732f12bda6e826512/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/f73fabec2306f96d040012a2a4b8c649/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/seventeen/.gradle/caches/transforms-3/8e9366ccdbeaa8aff657c2bde1b05332/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/085a81d5ff038112bdf4dad16da16ad9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/seventeen/.gradle/caches/transforms-3/6eca85b1106bb5f4715aa4e7e1ba7f8f/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/03996457a15244c8b4c8b89625607cb5/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/seventeen/.gradle/caches/transforms-3/bfa884bc5e98c8acb9e64910e9d5688d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/fe47d298f303265db9ecbcc7809c5aea/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seventeen/.gradle/caches/transforms-3/e14b6b07f10b6dfcb7d621417e46d6d0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/077452c040885388db3bd06a2f5b20d9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/9491f1dd4b0ee58c880737765ae642ac/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/757c523d7473ad2b790e1035bcd0f51e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/seventeen/.gradle/caches/transforms-3/3aa27425784068186806ebedb72bd51a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/seventeen/.gradle/caches/transforms-3/3deb0aa0a26eec162e0a28ec43a686ea/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/7e44d49b8647e9d7c0803574eb1c5ea8/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/seventeen/.gradle/caches/transforms-3/03e6caf3bed6bf6a42a6d4210e495eee/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/5697bff1e81e5bd7fae901004295db34/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b3ce4420232dcaa41dd9e1c4214f1888/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/bac134e4a43d3d2b7017c36ff635c857/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/93be39fdff8db48e176fee7167b58b62/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/e536480e57eed6c6e62eb5938fb249dc/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:5:5-26:19
+INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:5:5-26:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/seventeen/.gradle/caches/transforms-3/f7440518479fb8c5dacdfbe7f994f201/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/seventeen/.gradle/caches/transforms-3/f7440518479fb8c5dacdfbe7f994f201/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/seventeen/.gradle/caches/transforms-3/8f9fb9e39185f1a6956971b1f70e54e8/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/seventeen/.gradle/caches/transforms-3/8f9fb9e39185f1a6956971b1f70e54e8/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/seventeen/.gradle/caches/transforms-3/8e9366ccdbeaa8aff657c2bde1b05332/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/seventeen/.gradle/caches/transforms-3/8e9366ccdbeaa8aff657c2bde1b05332/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seventeen/.gradle/caches/transforms-3/e14b6b07f10b6dfcb7d621417e46d6d0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seventeen/.gradle/caches/transforms-3/e14b6b07f10b6dfcb7d621417e46d6d0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/077452c040885388db3bd06a2f5b20d9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/077452c040885388db3bd06a2f5b20d9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/9491f1dd4b0ee58c880737765ae642ac/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/9491f1dd4b0ee58c880737765ae642ac/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/seventeen/.gradle/caches/transforms-3/8e9366ccdbeaa8aff657c2bde1b05332/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:11:9-54
+activity#com.example.chinesedarkchess.MenuActivity
+ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:15:13-50
+	android:exported
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.chinesedarkchess.GameActivity
+ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:21:9-25:20
+	android:screenOrientation
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:24:13-50
+	android:exported
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml:22:13-41
+uses-sdk
+INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.5.0] /Users/seventeen/.gradle/caches/transforms-3/f7440518479fb8c5dacdfbe7f994f201/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/seventeen/.gradle/caches/transforms-3/f7440518479fb8c5dacdfbe7f994f201/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/seventeen/.gradle/caches/transforms-3/8f9fb9e39185f1a6956971b1f70e54e8/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/seventeen/.gradle/caches/transforms-3/8f9fb9e39185f1a6956971b1f70e54e8/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/seventeen/.gradle/caches/transforms-3/23ab65f79b9b3c8f428135d9710c843d/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/seventeen/.gradle/caches/transforms-3/23ab65f79b9b3c8f428135d9710c843d/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/ec7e1e7832e844b576223f5c2e1e6996/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/ec7e1e7832e844b576223f5c2e1e6996/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/seventeen/.gradle/caches/transforms-3/b7067ac5074db9b973510d1799430040/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/seventeen/.gradle/caches/transforms-3/b7067ac5074db9b973510d1799430040/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/seventeen/.gradle/caches/transforms-3/64e620a699e5d6bfdd6b347ac736c5ef/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/seventeen/.gradle/caches/transforms-3/64e620a699e5d6bfdd6b347ac736c5ef/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/seventeen/.gradle/caches/transforms-3/93753c90c26d82cb7483fe6112d42340/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/seventeen/.gradle/caches/transforms-3/93753c90c26d82cb7483fe6112d42340/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/9f632936c607390c239f3c8c1b4444d9/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/9f632936c607390c239f3c8c1b4444d9/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/seventeen/.gradle/caches/transforms-3/10bef1bdbee7f9ede9b2cf8029f1b3e9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/seventeen/.gradle/caches/transforms-3/10bef1bdbee7f9ede9b2cf8029f1b3e9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/a81ab9759ca9e62ef6dcb3bfbb1ea356/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/a81ab9759ca9e62ef6dcb3bfbb1ea356/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/280c17331b57dcb0e75500cb76b2414e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/280c17331b57dcb0e75500cb76b2414e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/seventeen/.gradle/caches/transforms-3/3b915b2cc696832ba2a8600b7d46214e/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/seventeen/.gradle/caches/transforms-3/3b915b2cc696832ba2a8600b7d46214e/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/50cf1aed4fc6d5299ff588e1f38e092d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/50cf1aed4fc6d5299ff588e1f38e092d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/3ed3ee9b4abcd491d7f8e651cbc2518c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/3ed3ee9b4abcd491d7f8e651cbc2518c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/4a8a4d1fb0523992e643d70634e93ef5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/4a8a4d1fb0523992e643d70634e93ef5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/a8ee09f72ca03881576d7ab8bf21a944/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/a8ee09f72ca03881576d7ab8bf21a944/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/3cb825ae470230c85107c6e83ad77f1d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/3cb825ae470230c85107c6e83ad77f1d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/a2d947bcadbd868732f12bda6e826512/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/a2d947bcadbd868732f12bda6e826512/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/f73fabec2306f96d040012a2a4b8c649/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/f73fabec2306f96d040012a2a4b8c649/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/seventeen/.gradle/caches/transforms-3/8e9366ccdbeaa8aff657c2bde1b05332/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/seventeen/.gradle/caches/transforms-3/8e9366ccdbeaa8aff657c2bde1b05332/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/085a81d5ff038112bdf4dad16da16ad9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/085a81d5ff038112bdf4dad16da16ad9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/seventeen/.gradle/caches/transforms-3/6eca85b1106bb5f4715aa4e7e1ba7f8f/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/seventeen/.gradle/caches/transforms-3/6eca85b1106bb5f4715aa4e7e1ba7f8f/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/03996457a15244c8b4c8b89625607cb5/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/03996457a15244c8b4c8b89625607cb5/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/seventeen/.gradle/caches/transforms-3/bfa884bc5e98c8acb9e64910e9d5688d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/seventeen/.gradle/caches/transforms-3/bfa884bc5e98c8acb9e64910e9d5688d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/fe47d298f303265db9ecbcc7809c5aea/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/fe47d298f303265db9ecbcc7809c5aea/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seventeen/.gradle/caches/transforms-3/e14b6b07f10b6dfcb7d621417e46d6d0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seventeen/.gradle/caches/transforms-3/e14b6b07f10b6dfcb7d621417e46d6d0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/077452c040885388db3bd06a2f5b20d9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/077452c040885388db3bd06a2f5b20d9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/9491f1dd4b0ee58c880737765ae642ac/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/9491f1dd4b0ee58c880737765ae642ac/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/757c523d7473ad2b790e1035bcd0f51e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/757c523d7473ad2b790e1035bcd0f51e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/seventeen/.gradle/caches/transforms-3/3aa27425784068186806ebedb72bd51a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/seventeen/.gradle/caches/transforms-3/3aa27425784068186806ebedb72bd51a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/seventeen/.gradle/caches/transforms-3/3deb0aa0a26eec162e0a28ec43a686ea/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/seventeen/.gradle/caches/transforms-3/3deb0aa0a26eec162e0a28ec43a686ea/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/7e44d49b8647e9d7c0803574eb1c5ea8/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/7e44d49b8647e9d7c0803574eb1c5ea8/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/seventeen/.gradle/caches/transforms-3/03e6caf3bed6bf6a42a6d4210e495eee/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/seventeen/.gradle/caches/transforms-3/03e6caf3bed6bf6a42a6d4210e495eee/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/5697bff1e81e5bd7fae901004295db34/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/5697bff1e81e5bd7fae901004295db34/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b3ce4420232dcaa41dd9e1c4214f1888/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b3ce4420232dcaa41dd9e1c4214f1888/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/bac134e4a43d3d2b7017c36ff635c857/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/bac134e4a43d3d2b7017c36ff635c857/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/93be39fdff8db48e176fee7167b58b62/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/93be39fdff8db48e176fee7167b58b62/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/e536480e57eed6c6e62eb5938fb249dc/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/seventeen/.gradle/caches/transforms-3/e536480e57eed6c6e62eb5938fb249dc/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/seventeen/ai/chinese_dark_chess_android/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/077452c040885388db3bd06a2f5b20d9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/077452c040885388db3bd06a2f5b20d9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/9491f1dd4b0ee58c880737765ae642ac/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/9491f1dd4b0ee58c880737765ae642ac/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/seventeen/.gradle/caches/transforms-3/b307e72e9d64804b4e8fcca391900bed/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/077452c040885388db3bd06a2f5b20d9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/077452c040885388db3bd06a2f5b20d9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/seventeen/.gradle/caches/transforms-3/077452c040885388db3bd06a2f5b20d9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
